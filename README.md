@@ -1,2 +1,1 @@
 # GerenciaConfig
-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
